@@ -1,2 +1,2 @@
 # GuneLock
-Cross-platform privacy focused note-taking and diary app
+Hackable and extendable cross-platform privacy focused note-taking and diary app
